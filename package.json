@@ -1,0 +1,35 @@
+{
+  "name": "yonago-guide-2026-10",
+  "version": "1.0.0",
+  "private": true,
+  "description": "바다 쪽으로 사흘 · 요나고·사카이미나토 여행 가이드북 (웹 + A5 중철 소책자)",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node build/build.mjs",
+    "build:html": "node build/build.mjs --html-only",
+    "pdf": "node build/print.mjs",
+    "impose": "node build/impose.mjs",
+    "test": "node build/test-imposition.mjs",
+    "pages": "node build/render-pages.mjs",
+    "shots": "node build/web-shots.mjs",
+    "qr": "node build/check-qr.mjs",
+    "qa": "node build/render-pages.mjs && node build/web-shots.mjs && node build/check-qr.mjs",
+    "all": "node build/build.mjs && node build/render-pages.mjs && node build/web-shots.mjs && node build/check-qr.mjs",
+    "web-check": "node build/check-web.mjs",
+    "publish:docs": "rm -rf docs && cp -R dist docs && touch docs/.nojekyll"
+  },
+  "dependencies": {
+    "@fontsource/noto-sans-jp": "5.3.0",
+    "@fontsource/noto-sans-kr": "5.3.0",
+    "@fontsource/noto-serif-jp": "5.3.0",
+    "@fontsource/noto-serif-kr": "5.3.0",
+    "linkedom": "0.18.13",
+    "pdf-lib": "1.17.1",
+    "pdfjs-dist": "6.3.289",
+    "puppeteer-core": "25.11.0",
+    "qrcode": "1.5.4"
+  }
+}

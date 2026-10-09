@@ -1,0 +1,290 @@
+{
+  "checkedAt": "2026-10-09T09:14:04.860Z",
+  "dpi": 300,
+  "renderer": "PDFKit",
+  "expected": 39,
+  "decoded": 39,
+  "ok": true,
+  "sizeMm": {
+    "min": 15.5,
+    "max": 18.8
+  },
+  "missing": [],
+  "small": [],
+  "unexpected": [],
+  "found": [
+    {
+      "page": 7,
+      "version": "v5",
+      "ec": "M",
+      "mm": 15.7,
+      "url": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=310000"
+    },
+    {
+      "page": 13,
+      "version": "v5",
+      "ec": "M",
+      "mm": 15.7,
+      "url": "https://maps.google.com/?q=%E5%BE%A1%E5%AE%BF+%E9%87%8E%E4%B9%83+%E5%A2%83%E6%B8%AF"
+    },
+    {
+      "page": 13,
+      "version": "v4",
+      "ec": "M",
+      "mm": 15.6,
+      "url": "https://dormy-hotels.com/dormyinn/hotels/nono_sakaiminato/"
+    },
+    {
+      "page": 13,
+      "version": "v6",
+      "ec": "M",
+      "mm": 15.7,
+      "url": "https://maps.google.com/?q=%E5%8D%83%E4%BB%A3%E3%82%80%E3%81%99%E3%81%B3+%E5%B2%A1%E7%A9%BA%E6%9C%AC%E5%BA%97+%E5%A2%83%E6%B8%AF"
+    },
+    {
+      "page": 13,
+      "version": "v4",
+      "ec": "M",
+      "mm": 15.5,
+      "url": "https://tabelog.com/tottori/A3103/A310301/31002496/"
+    },
+    {
+      "page": 14,
+      "version": "v6",
+      "ec": "M",
+      "mm": 15.7,
+      "url": "https://maps.google.com/?q=%E6%B0%B4%E6%9C%A8%E3%81%97%E3%81%92%E3%82%8B%E3%83%AD%E3%83%BC%E3%83%89+%E5%A2%83%E6%B8%AF"
+    },
+    {
+      "page": 14,
+      "version": "v3",
+      "ec": "M",
+      "mm": 15.6,
+      "url": "https://mizuki.sakaiminato.net/road/"
+    },
+    {
+      "page": 19,
+      "version": "v5",
+      "ec": "M",
+      "mm": 15.7,
+      "url": "https://maps.google.com/?q=%E3%82%A8%E3%83%B3%E3%83%A4%E3%82%B5%E3%83%B3%E3%82%B4+%E7%9A%86%E7%94%9F"
+    },
+    {
+      "page": 19,
+      "version": "v4",
+      "ec": "M",
+      "mm": 15.5,
+      "url": "https://tabelog.com/tottori/A3103/A310301/31002149/"
+    },
+    {
+      "page": 19,
+      "version": "v5",
+      "ec": "M",
+      "mm": 15.6,
+      "url": "https://maps.google.com/?q=%E7%B1%B3%E5%AD%90%E5%9F%8E%E8%B7%A1+%E7%B1%B3%E5%AD%90"
+    },
+    {
+      "page": 19,
+      "version": "v5",
+      "ec": "M",
+      "mm": 15.7,
+      "url": "https://www.yonago-navi.jp/yonago/shitamachi/sightseeing/yonago-castle-trace/"
+    },
+    {
+      "page": 20,
+      "version": "v5",
+      "ec": "M",
+      "mm": 15.7,
+      "url": "https://maps.google.com/?q=%E6%B2%B3%E7%94%B0%E9%85%92%E5%BA%97+%E7%B1%B3%E5%AD%90"
+    },
+    {
+      "page": 20,
+      "version": "v3",
+      "ec": "M",
+      "mm": 15.6,
+      "url": "https://kawata-saketen.com/about/"
+    },
+    {
+      "page": 20,
+      "version": "v5",
+      "ec": "M",
+      "mm": 15.7,
+      "url": "https://maps.google.com/?q=%E6%9D%BE%E4%B8%8B%E9%85%92%E5%BA%97+%E5%A2%83%E6%B8%AF"
+    },
+    {
+      "page": 20,
+      "version": "v4",
+      "ec": "M",
+      "mm": 15.5,
+      "url": "https://tabelog.com/tottori/A3103/A310301/31003732/"
+    },
+    {
+      "page": 20,
+      "version": "v4",
+      "ec": "M",
+      "mm": 15.7,
+      "url": "https://maps.google.com/?q=%E7%A2%A7%E3%81%A8%E9%A2%A8+%E5%A2%83%E6%B8%AF"
+    },
+    {
+      "page": 20,
+      "version": "v4",
+      "ec": "M",
+      "mm": 15.5,
+      "url": "https://tabelog.com/tottori/A3103/A310301/31004900/"
+    },
+    {
+      "page": 24,
+      "version": "v6",
+      "ec": "L",
+      "mm": 15.7,
+      "url": "https://maps.google.com/?q=%E5%A2%83%E6%B8%AF%E6%B0%B4%E7%94%A3%E7%89%A9%E7%9B%B4%E5%A3%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC+%E5%A2%83%E6%B8%AF"
+    },
+    {
+      "page": 24,
+      "version": "v4",
+      "ec": "M",
+      "mm": 15.5,
+      "url": "https://tabelog.com/tottori/A3103/A310301/31004960/"
+    },
+    {
+      "page": 25,
+      "version": "v6",
+      "ec": "M",
+      "mm": 15.7,
+      "url": "https://maps.google.com/?q=%E6%B0%B4%E6%9C%A8%E3%81%97%E3%81%92%E3%82%8B%E8%A8%98%E5%BF%B5%E9%A4%A8+%E5%A2%83%E6%B8%AF"
+    },
+    {
+      "page": 25,
+      "version": "v3",
+      "ec": "M",
+      "mm": 15.6,
+      "url": "https://mizuki.sakaiminato.net/"
+    },
+    {
+      "page": 25,
+      "version": "v5",
+      "ec": "M",
+      "mm": 15.7,
+      "url": "https://maps.google.com/?q=HATONOVA+%E4%B8%89%E5%85%89%E4%B8%B8+%E5%A2%83%E6%B8%AF"
+    },
+    {
+      "page": 25,
+      "version": "v4",
+      "ec": "M",
+      "mm": 15.5,
+      "url": "https://tabelog.com/tottori/A3103/A310301/31006301/"
+    },
+    {
+      "page": 26,
+      "version": "v6",
+      "ec": "M",
+      "mm": 15.7,
+      "url": "https://maps.google.com/?q=%E7%B1%B3%E5%AD%90%E9%AC%BC%E5%A4%AA%E9%83%8E%E7%A9%BA%E6%B8%AF+%E7%B1%B3%E5%AD%90"
+    },
+    {
+      "page": 26,
+      "version": "v4",
+      "ec": "M",
+      "mm": 15.5,
+      "url": "https://www.yonago-air.com/flow/kokusai_dep"
+    },
+    {
+      "page": 46,
+      "version": "v6",
+      "ec": "M",
+      "mm": 15.7,
+      "url": "https://maps.google.com/?q=%E6%B5%B7%E9%AE%AE%E3%81%B5%E3%81%90%E6%96%99%E7%90%86+%E6%AE%BF+%E5%A2%83%E6%B8%AF"
+    },
+    {
+      "page": 46,
+      "version": "v4",
+      "ec": "M",
+      "mm": 15.5,
+      "url": "https://tabelog.com/tottori/A3103/A310301/31004440/"
+    },
+    {
+      "page": 46,
+      "version": "v6",
+      "ec": "L",
+      "mm": 15.7,
+      "url": "https://maps.google.com/?q=%E5%B1%B1%E9%99%B0%E3%81%AE%E3%81%8A%E5%AF%BF%E5%8F%B8%E3%83%92%E3%83%88%E3%83%88%E3%82%BB+%E5%A2%83%E6%B8%AF%E9%A7%85%E5%89%8D%E5%BA%97"
+    },
+    {
+      "page": 46,
+      "version": "v4",
+      "ec": "M",
+      "mm": 15.6,
+      "url": "https://tabelog.com/tottori/A3103/A310301/31003904/"
+    },
+    {
+      "page": 46,
+      "version": "v6",
+      "ec": "M",
+      "mm": 15.7,
+      "url": "https://maps.google.com/?q=%E3%82%84%E3%81%8D%E3%81%A8%E3%82%8A%E5%A4%A7%E5%90%89+%E5%A2%83%E6%B8%AF%E5%BA%97"
+    },
+    {
+      "page": 46,
+      "version": "v4",
+      "ec": "M",
+      "mm": 15.6,
+      "url": "https://tabelog.com/tottori/A3103/A310301/31000949/"
+    },
+    {
+      "page": 47,
+      "version": "v6",
+      "ec": "M",
+      "mm": 15.7,
+      "url": "https://maps.google.com/?q=Cafe+Dining+Bar+SHIPS+%E7%B1%B3%E5%AD%90+%E6%9D%B1%E5%80%89%E5%90%89%E7%94%BA"
+    },
+    {
+      "page": 47,
+      "version": "v4",
+      "ec": "M",
+      "mm": 15.5,
+      "url": "https://maps.google.com/?q=%E6%A1%9C%E4%B8%B8+%E7%B1%B3%E5%AD%90"
+    },
+    {
+      "page": 47,
+      "version": "v4",
+      "ec": "M",
+      "mm": 15.6,
+      "url": "https://tabelog.com/tottori/A3103/A310301/31003506/"
+    },
+    {
+      "page": 47,
+      "version": "v8",
+      "ec": "L",
+      "mm": 18.8,
+      "url": "https://maps.google.com/?q=%E7%B4%85%E3%82%BA%E3%83%AF%E3%82%A4%E3%82%AC%E3%83%8B%E3%82%89%E3%81%81%E9%BA%BA+%E3%81%BE%E3%82%8B%E3%81%AF%E3%81%A1%E5%B1%8B+%E7%B1%B3%E5%AD%90%E9%AC%BC%E5%A4%AA%E9%83%8E%E7%A9%BA%E6%B8%AF"
+    },
+    {
+      "page": 47,
+      "version": "v4",
+      "ec": "M",
+      "mm": 18.3,
+      "url": "https://tabelog.com/tottori/A3103/A310301/31006489/"
+    },
+    {
+      "page": 58,
+      "version": "v5",
+      "ec": "M",
+      "mm": 16.1,
+      "url": "https://www.pref.shimane.lg.jp/life/bunka/bunkazai/izumo_fuudo/kunibiki/"
+    },
+    {
+      "page": 58,
+      "version": "v3",
+      "ec": "M",
+      "mm": 15.9,
+      "url": "https://www.gutenberg.org/ebooks/8130"
+    },
+    {
+      "page": 64,
+      "version": "v4",
+      "ec": "M",
+      "mm": 15.9,
+      "url": "https://mskim5383.github.io/2026-10-yonago-guide/"
+    }
+  ]
+}

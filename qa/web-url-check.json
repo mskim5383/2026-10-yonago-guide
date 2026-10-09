@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-10-09T09:14:08.646Z",
+  "webUrl": "https://mskim5383.github.io/2026-10-yonago-guide/",
+  "ok": false,
+  "results": [
+    {
+      "url": "https://mskim5383.github.io/2026-10-yonago-guide/",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "url": "https://mskim5383.github.io/2026-10-yonago-guide/yonago-guide-a5.pdf",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "url": "https://mskim5383.github.io/2026-10-yonago-guide/yonago-guide-booklet-a4.pdf",
+      "status": 404,
+      "ok": false
+    }
+  ]
+}

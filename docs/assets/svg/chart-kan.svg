@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 880" width="1000" height="880" role="img" aria-labelledby="ck-title ck-desc" font-family="'Noto Sans KR','Noto Sans JP',sans-serif" lang="ko">
+<title id="ck-title">간 온도 이름표 · 히나타칸에서 도비키리칸까지</title>
+<desc id="ck-desc">일본술을 데우는 온도의 이름을 온도계 위에 정리한 도판. 히나타칸(日向燗) 약 30℃, 히토하다칸(人肌燗) 약 35℃, 누루칸(ぬる燗) 약 40℃, 조칸(上燗) 약 45℃, 아쓰칸(熱燗) 약 50℃, 도비키리칸(飛び切り燗) 약 55℃ 이상. 이름과 온도는 일반적인 구분이다. 오른쪽은 산인 술의 예: 우메쓰주조 冨玲는 아쓰칸 60~70℃(돗토리현 소개), 히오키자쿠라 鍛造生酛 強力은 뒷라벨이 도비키리칸 ◎·아쓰칸 ○(2019년 블로그 기록), 벤텐무스메는 아쓰칸으로 데운 뒤 약 42℃까지 식혀 마시는 冷ましの燗(판매점 제안).</desc>
+<defs><linearGradient id="ck-heat" x1="0" y1="1" x2="0" y2="0"><stop offset="0%" stop-color="#e9dcb8"/><stop offset="40%" stop-color="#f0b98f"/><stop offset="75%" stop-color="#e67a52"/><stop offset="100%" stop-color="#cf4a24"/></linearGradient></defs>
+<rect width="1000" height="880" fill="#f7f2e7"/>
+<text x="40" y="58" font-size="34" fill="#1f3b5c" font-weight="800">간(燗) 온도와 이름</text>
+<text x="40" y="90" font-size="21" fill="#6a5f4e">燗の温度と呼び名 · 약 5℃ 간격의 일반적 구분</text>
+<rect x="127" y="100" width="46" height="678" rx="23" fill="#ffffff" stroke="#1f3b5c" stroke-width="2.5"/>
+<circle cx="150" cy="796" r="40" fill="#ffffff" stroke="#1f3b5c" stroke-width="2.5"/>
+<rect x="129" y="754" width="42" height="30" fill="#ffffff"/>
+<rect x="133" y="106" width="34" height="688" rx="17" fill="url(#ck-heat)"/>
+<circle cx="150" cy="796" r="32" fill="#e9dcb8"/>
+<line x1="111" y1="744" x2="127" y2="744" stroke="#1f3b5c" stroke-width="2"/>
+<text x="103" y="751" font-size="21" fill="#1f3b5c" text-anchor="end">25℃</text>
+<line x1="119" y1="730.4" x2="127" y2="730.4" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="716.8" x2="127" y2="716.8" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="703.2" x2="127" y2="703.2" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="689.6" x2="127" y2="689.6" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="111" y1="676" x2="127" y2="676" stroke="#1f3b5c" stroke-width="2"/>
+<text x="103" y="683" font-size="21" fill="#1f3b5c" font-weight="600" text-anchor="end">30℃</text>
+<line x1="119" y1="662.4" x2="127" y2="662.4" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="648.8" x2="127" y2="648.8" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="635.2" x2="127" y2="635.2" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="621.6" x2="127" y2="621.6" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="111" y1="608" x2="127" y2="608" stroke="#1f3b5c" stroke-width="2"/>
+<text x="103" y="615" font-size="21" fill="#1f3b5c" text-anchor="end">35℃</text>
+<line x1="119" y1="594.4" x2="127" y2="594.4" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="580.8" x2="127" y2="580.8" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="567.2" x2="127" y2="567.2" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="553.6" x2="127" y2="553.6" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="111" y1="540" x2="127" y2="540" stroke="#1f3b5c" stroke-width="2"/>
+<text x="103" y="547" font-size="21" fill="#1f3b5c" font-weight="600" text-anchor="end">40℃</text>
+<line x1="119" y1="526.4" x2="127" y2="526.4" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="512.8" x2="127" y2="512.8" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="499.2" x2="127" y2="499.2" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="485.6" x2="127" y2="485.6" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="111" y1="472" x2="127" y2="472" stroke="#1f3b5c" stroke-width="2"/>
+<text x="103" y="479" font-size="21" fill="#1f3b5c" text-anchor="end">45℃</text>
+<line x1="119" y1="458.4" x2="127" y2="458.4" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="444.8" x2="127" y2="444.8" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="431.2" x2="127" y2="431.2" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="417.6" x2="127" y2="417.6" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="111" y1="404" x2="127" y2="404" stroke="#1f3b5c" stroke-width="2"/>
+<text x="103" y="411" font-size="21" fill="#1f3b5c" font-weight="600" text-anchor="end">50℃</text>
+<line x1="119" y1="390.4" x2="127" y2="390.4" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="376.8" x2="127" y2="376.8" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="363.2" x2="127" y2="363.2" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="349.6" x2="127" y2="349.6" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="111" y1="336" x2="127" y2="336" stroke="#1f3b5c" stroke-width="2"/>
+<text x="103" y="343" font-size="21" fill="#1f3b5c" text-anchor="end">55℃</text>
+<line x1="119" y1="322.4" x2="127" y2="322.4" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="308.8" x2="127" y2="308.8" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="295.2" x2="127" y2="295.2" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="281.6" x2="127" y2="281.6" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="111" y1="268" x2="127" y2="268" stroke="#1f3b5c" stroke-width="2"/>
+<text x="103" y="275" font-size="21" fill="#1f3b5c" font-weight="600" text-anchor="end">60℃</text>
+<line x1="119" y1="254.4" x2="127" y2="254.4" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="240.8" x2="127" y2="240.8" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="227.2" x2="127" y2="227.2" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="213.6" x2="127" y2="213.6" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="111" y1="200" x2="127" y2="200" stroke="#1f3b5c" stroke-width="2"/>
+<text x="103" y="207" font-size="21" fill="#1f3b5c" text-anchor="end">65℃</text>
+<line x1="119" y1="186.4" x2="127" y2="186.4" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="172.8" x2="127" y2="172.8" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="159.2" x2="127" y2="159.2" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="119" y1="145.6" x2="127" y2="145.6" stroke="#1f3b5c" stroke-width="1"/>
+<line x1="111" y1="132" x2="127" y2="132" stroke="#1f3b5c" stroke-width="2"/>
+<text x="103" y="139" font-size="21" fill="#1f3b5c" font-weight="600" text-anchor="end">70℃</text>
+<line x1="175" y1="676" x2="224" y2="676" stroke="#1f3b5c" stroke-width="1.5" stroke-dasharray="2 5"/>
+<circle cx="150" cy="676" r="6" fill="#ffffff" stroke="#1f3b5c" stroke-width="2"/>
+<text x="236" y="680" font-size="31" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">日向燗</text>
+<text x="343" y="679" font-size="24" fill="#cf4a24" font-weight="800">약 30℃</text>
+<text x="236" y="709" font-size="21" fill="#6a5f4e"><tspan font-weight="700" fill="#1f3b5c">히나타칸</tspan><tspan dx="10">日向 = 볕, 양지</tspan></text>
+<line x1="175" y1="608" x2="224" y2="608" stroke="#1f3b5c" stroke-width="1.5" stroke-dasharray="2 5"/>
+<circle cx="150" cy="608" r="6" fill="#ffffff" stroke="#1f3b5c" stroke-width="2"/>
+<text x="236" y="612" font-size="31" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">人肌燗</text>
+<text x="343" y="611" font-size="24" fill="#cf4a24" font-weight="800">약 35℃</text>
+<text x="236" y="641" font-size="21" fill="#6a5f4e"><tspan font-weight="700" fill="#1f3b5c">히토하다칸</tspan><tspan dx="10">人肌 = 사람 살결</tspan></text>
+<line x1="175" y1="540" x2="224" y2="540" stroke="#1f3b5c" stroke-width="1.5" stroke-dasharray="2 5"/>
+<circle cx="150" cy="540" r="6" fill="#ffffff" stroke="#1f3b5c" stroke-width="2"/>
+<text x="236" y="544" font-size="31" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">ぬる燗</text>
+<text x="343" y="543" font-size="24" fill="#cf4a24" font-weight="800">약 40℃</text>
+<text x="236" y="573" font-size="21" fill="#6a5f4e"><tspan font-weight="700" fill="#1f3b5c">누루칸</tspan><tspan dx="10">ぬるい = 미지근하다</tspan></text>
+<line x1="175" y1="472" x2="224" y2="472" stroke="#1f3b5c" stroke-width="1.5" stroke-dasharray="2 5"/>
+<circle cx="150" cy="472" r="6" fill="#ffffff" stroke="#1f3b5c" stroke-width="2"/>
+<text x="236" y="476" font-size="31" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">上燗</text>
+<text x="312" y="475" font-size="24" fill="#cf4a24" font-weight="800">약 45℃</text>
+<text x="236" y="505" font-size="21" fill="#6a5f4e"><tspan font-weight="700" fill="#1f3b5c">조칸</tspan><tspan dx="10">上 = 좋은, 알맞은</tspan></text>
+<line x1="175" y1="404" x2="224" y2="404" stroke="#1f3b5c" stroke-width="1.5" stroke-dasharray="2 5"/>
+<circle cx="150" cy="404" r="6" fill="#ffffff" stroke="#1f3b5c" stroke-width="2"/>
+<text x="236" y="408" font-size="31" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">熱燗</text>
+<text x="312" y="407" font-size="24" fill="#cf4a24" font-weight="800">약 50℃</text>
+<text x="236" y="437" font-size="21" fill="#6a5f4e"><tspan font-weight="700" fill="#1f3b5c">아쓰칸</tspan><tspan dx="10">熱い = 뜨겁다</tspan></text>
+<line x1="175" y1="336" x2="224" y2="336" stroke="#1f3b5c" stroke-width="1.5" stroke-dasharray="2 5"/>
+<circle cx="150" cy="336" r="6" fill="#ffffff" stroke="#1f3b5c" stroke-width="2"/>
+<text x="236" y="340" font-size="31" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">飛び切り燗</text>
+<text x="405" y="339" font-size="24" fill="#cf4a24" font-weight="800">약 55℃ 이상</text>
+<text x="236" y="369" font-size="21" fill="#6a5f4e"><tspan font-weight="700" fill="#1f3b5c">도비키리칸</tspan><tspan dx="10">飛び切り = 각별한</tspan></text>
+<path d="M177 328 v-34" stroke="#cf4a24" stroke-width="2.5"/><path d="M177 286 l-6 12 h12 z" fill="#cf4a24"/>
+<line x1="616" y1="102" x2="616" y2="594.4" stroke="#1f3b5c" stroke-opacity=".25" stroke-width="1.5"/>
+<text x="640" y="58" font-size="26" fill="#cf4a24" font-weight="800">산인의 술은 더 뜨겁게도</text>
+<text x="640" y="90" font-size="21" fill="#6a5f4e">돗토리 · 시마네 라벨과 판매점의 권장</text>
+<path d="M626 132 h-10 V268 h10" fill="none" stroke="#cf4a24" stroke-width="3"/>
+<text x="640" y="154" font-size="23" font-weight="700" fill="#262626"><tspan lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">冨玲</tspan> · 우메쓰주조</text>
+<text x="640" y="181" font-size="21" fill="#cf4a24" font-weight="700">아쓰칸 60~70℃</text>
+<text x="640" y="206" font-size="21" fill="#6a5f4e">돗토리현 양조장 소개</text>
+<path d="M616 336 h10" stroke="#cf4a24" stroke-width="3"/><circle cx="616" cy="336" r="5" fill="#cf4a24"/>
+<text x="640" y="314" font-size="23" font-weight="700" fill="#262626">히오키자쿠라 <tspan lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif" font-size="21" font-weight="400">鍛造生酛 強力</tspan></text>
+<text x="640" y="341" font-size="21" fill="#cf4a24" font-weight="700">뒷라벨: 도비키리칸 ◎, 아쓰칸 ○</text>
+<text x="640" y="366" font-size="21" fill="#6a5f4e">2019년 블로그 기록</text>
+<path d="M616 404 V500.8" fill="none" stroke="#2c7590" stroke-width="3.5"/><path d="M616 512.8 l-7 -14 h14 z" fill="#2c7590"/><circle cx="616" cy="404" r="5.5" fill="#2c7590"/><path d="M606 512.8 h20" stroke="#2c7590" stroke-width="2"/>
+<text x="600" y="519.8" font-size="21" fill="#2c7590" font-weight="700" text-anchor="end">42℃</text>
+<text x="640" y="410" font-size="23" font-weight="700" fill="#262626">벤텐무스메 <tspan lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif" font-size="21" font-weight="400">辨天娘</tspan></text>
+<text x="640" y="437" font-size="21" fill="#2c7590" font-weight="700">아쓰칸으로 데운 뒤</text>
+<text x="640" y="462" font-size="21" fill="#2c7590" font-weight="700">약 42℃까지 식혀서</text>
+<text x="640" y="489" font-size="21" fill="#6a5f4e"><tspan lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">冷ましの燗</tspan> · 판매점 제안</text>
+<line x1="236" y1="788" x2="960" y2="788" stroke="#1f3b5c" stroke-opacity=".3"/>
+<text x="236" y="824" font-size="21" fill="#6a5f4e">온도와 이름은 일반적인 구분이다.</text>
+<text x="236" y="852" font-size="21" fill="#6a5f4e">자료마다 조금씩 다르고, 가게마다 데우는 온도도 다르다.</text>
+</svg>

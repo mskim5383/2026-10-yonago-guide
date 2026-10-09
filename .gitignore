@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+tmp/
+d1-hi/
+dist/
+qa/pages/
+qa/booklet/
+qa/web/
+!/build/

@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<meta name="theme-color" content="#fbf8f2">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231f3d63'/%3E%3Cpath d='M5 21q5.5-4 11 0t11 0' fill='none' stroke='%23e6d8bc' stroke-width='2.6' stroke-linecap='round'/%3E%3Cpath d='M5 14q5.5-4 11 0t11 0' fill='none' stroke='%232b7a83' stroke-width='2.6' stroke-linecap='round'/%3E%3C/svg%3E">
+<title>{{title}} · 요나고·사카이미나토 여행 가이드북</title>
+<meta name="description" content="{{subtitle}} · {{series}}">
+<link rel="stylesheet" href="assets/fonts/fonts.css">
+<link rel="stylesheet" href="assets/style.css">
+<!-- 빌드가 원고별 러닝헤드(@page 이름 붙은 페이지)를 채운다 -->
+<style id="page-rules"></style>
+</head>
+<body>
+<a class="skip web-only" href="#book">본문으로 건너뛰기</a>
+<header class="topbar web-only">
+  <div class="topbar-in">
+    <a class="brand" href="#top"><span class="brand-kanji" lang="ja">弓ヶ浜</span><span class="brand-t">{{title}}</span></a>
+    <nav class="days" data-day-nav aria-label="Day 바로가기"></nav>
+    <details class="toc-pop">
+      <summary>목차</summary>
+      <div class="toc-pop-panel">
+        <nav data-web-toc aria-label="목차"></nav>
+        <p class="toc-pop-dl"><a href="{{pdf}}">A5 PDF</a> · <a href="{{booklet}}">A4 중철 인쇄용 PDF</a></p>
+      </div>
+    </details>
+    <a class="pdf-btn" href="{{pdf}}" download>PDF</a>
+  </div>
+</header>
+<aside class="side-toc web-only" aria-label="차례">
+  <p class="side-toc-h">차례</p>
+  <nav data-web-toc></nav>
+</aside>
+<main id="book" class="book">
+{{content}}
+</main>
+<footer class="web-foot web-only">
+  <p>{{title}} · {{series}} · 비매품, 개인 여행용</p>
+  <p><a href="{{pdf}}">A5 PDF 내려받기</a> · <a href="{{booklet}}">A4 중철 인쇄용 PDF</a></p>
+</footer>
+<script>
+(function () {
+  // 목차 팝오버: 링크를 누르거나 Esc 로 닫기
+  var pop = document.querySelector('.toc-pop');
+  if (pop) {
+    pop.addEventListener('click', function (e) { if (e.target.closest('a')) pop.open = false; });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') pop.open = false; });
+    document.addEventListener('click', function (e) { if (pop.open && !pop.contains(e.target)) pop.open = false; });
+  }
+
+  // 체크리스트: 누르면 체크, 이 브라우저에만 기억
+  var KEY = 'yonago-guide-2026-10:checks';
+  var saved = {};
+  try { saved = JSON.parse(localStorage.getItem(KEY) || '{}') || {}; } catch (e) { saved = {}; }
+  document.querySelectorAll('ul.check').forEach(function (ul, i) {
+    var sec = ul.closest('section');
+    Array.prototype.forEach.call(ul.children, function (li, j) {
+      if (li.tagName !== 'LI') return;
+      var k = (sec ? sec.id : 's') + ':' + i + ':' + j;
+      var on = !!saved[k];
+      li.setAttribute('role', 'checkbox');
+      li.tabIndex = 0;
+      var paint = function () { li.classList.toggle('done', on); li.setAttribute('aria-checked', on ? 'true' : 'false'); };
+      var flip = function () {
+        on = !on; saved[k] = on; paint();
+        try { localStorage.setItem(KEY, JSON.stringify(saved)); } catch (e) {}
+      };
+      paint();
+      li.addEventListener('click', function (e) { if (!e.target.closest('a')) flip(); });
+      li.addEventListener('keydown', function (e) { if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); flip(); } });
+    });
+  });
+
+  // 표 안의 체크 칸(☐): 체크리스트처럼 누르면 체크, 이 브라우저에만 기억
+  document.querySelectorAll('table.data td').forEach(function (td, i) {
+    if (td.textContent.trim() !== '☐') return;
+    var sec = td.closest('section');
+    var k = (sec ? sec.id : 's') + ':td:' + i;
+    var on = !!saved[k];
+    td.classList.add('cell-check');
+    td.setAttribute('role', 'checkbox');
+    td.tabIndex = 0;
+    var paint = function () { td.textContent = on ? '☑' : '☐'; td.classList.toggle('done', on); td.setAttribute('aria-checked', on ? 'true' : 'false'); };
+    var flip = function () {
+      on = !on; saved[k] = on; paint();
+      try { localStorage.setItem(KEY, JSON.stringify(saved)); } catch (e) {}
+    };
+    paint();
+    td.addEventListener('click', flip);
+    td.addEventListener('keydown', function (e) { if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); flip(); } });
+  });
+
+  // 지금 읽는 곳 표시 (Day 칩, 옆 차례)
+  if (!('IntersectionObserver' in window)) return;
+  var links = document.querySelectorAll('.days a, .side-toc a');
+  var byId = {};
+  links.forEach(function (a) { var id = a.getAttribute('href').slice(1); (byId[id] = byId[id] || []).push(a); });
+  var groupOf = {};
+  document.querySelectorAll('section.part').forEach(function (s) { groupOf[s.id] = s.getAttribute('data-group'); });
+  var chips = document.querySelectorAll('.days a');
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (en) {
+      if (!en.isIntersecting) return;
+      var id = en.target.id;
+      document.querySelectorAll('.side-toc a.on').forEach(function (a) { a.classList.remove('on'); });
+      (byId[id] || []).forEach(function (a) { if (a.closest('.side-toc')) a.classList.add('on'); });
+      chips.forEach(function (c) {
+        var cid = c.getAttribute('href').slice(1);
+        c.classList.toggle('on', groupOf[cid] && groupOf[cid] === groupOf[id]);
+      });
+    });
+  }, { rootMargin: '-45% 0px -50% 0px' });
+  document.querySelectorAll('section.part').forEach(function (s) { io.observe(s); });
+})();
+</script>
+</body>
+</html>

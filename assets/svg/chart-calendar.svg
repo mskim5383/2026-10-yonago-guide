@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 784" width="1000" height="784" role="img" aria-labelledby="cc-title cc-desc" font-family="'Noto Sans KR','Noto Sans JP',sans-serif" lang="ko">
+<title id="cc-title">10/12·13·14 영업 캘린더</title>
+<desc id="cc-desc">이 책 일정에 나오는 주요 장소의 10/12(월·공휴일), 10/13(화), 10/14(수) 영업 여부. O 영업, X 휴무, △ 부정기 휴무, ? 미확인. 칠한 칸은 이 책 일정에 넣은 날, 점선 칸은 선택·대안. 사카이미나토 어항 쪽(직매센터, HATONOVA)은 10/13 화요일에 쉬고, 碧と風는 10/12에 쉬고, 河田酒店은 10/14에 쉰다. 2026-10-09 기준 공식 사이트·Tabelog 표기.</desc>
+<rect width="1000" height="784" fill="#f7f2e7"/>
+<text x="20" y="50" font-size="32" fill="#1f3b5c" font-weight="800">여는 날, 쉬는 날</text>
+<text x="290" y="50" font-size="22" fill="#6a5f4e" font-weight="600">10/12 · 13 · 14 영업 캘린더</text>
+<text x="340" y="126" font-size="22" fill="#1f3b5c" font-weight="800" text-anchor="middle">10/12</text>
+<text x="340" y="152" font-size="21" fill="#1f3b5c" text-anchor="middle">월</text>
+<text x="400" y="126" font-size="22" fill="#cf4a24" font-weight="800" text-anchor="middle">10/13</text>
+<text x="400" y="152" font-size="21" fill="#cf4a24" text-anchor="middle">화</text>
+<text x="460" y="126" font-size="22" fill="#1f3b5c" font-weight="800" text-anchor="middle">10/14</text>
+<text x="460" y="152" font-size="21" fill="#1f3b5c" text-anchor="middle">수</text>
+<rect x="308" y="74" width="64" height="28" rx="14" fill="#1f3b5c"/>
+<text x="340" y="95" font-size="21" fill="#fff" font-weight="700" text-anchor="middle">공휴일</text>
+<rect x="373" y="166" width="54" height="446" fill="#cf4a24" fill-opacity=".06"/>
+<line x1="20" y1="168" x2="490" y2="168" stroke="#1f3b5c" stroke-width="1.6"/>
+<text x="20" y="196" font-size="21" fill="#1f3b5c" font-weight="800">사카이미나토 · 숙소 주변</text>
+<text x="20" y="231" font-size="22" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">千代むすび 岡空本店</text>
+<text x="20" y="256" font-size="21" fill="#6a5f4e">9:00~17:00 무휴 · 가쿠우치</text>
+<rect x="315" y="211" width="50" height="48" rx="8" fill="#f6d9c6"/>
+<circle cx="340" cy="235" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<circle cx="400" cy="235" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<rect x="435" y="211" width="50" height="48" rx="8" fill="#f6d9c6"/>
+<circle cx="460" cy="235" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<line x1="20" y1="264" x2="490" y2="264" stroke="#1f3b5c" stroke-opacity=".15"/>
+<text x="20" y="289" font-size="22" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">水木しげる記念館</text>
+<text x="20" y="314" font-size="21" fill="#6a5f4e">9:30~17:00(최종 16:30) 무휴</text>
+<circle cx="340" cy="293" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<circle cx="400" cy="293" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<rect x="435" y="269" width="50" height="48" rx="8" fill="#f6d9c6"/>
+<circle cx="460" cy="293" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<line x1="20" y1="322" x2="490" y2="322" stroke="#1f3b5c" stroke-opacity=".15"/>
+<text x="20" y="347" font-size="22" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">水木しげるロード</text>
+<text x="20" y="372" font-size="21" fill="#6a5f4e">그림자극 매일 일몰~22:00</text>
+<rect x="315" y="327" width="50" height="48" rx="8" fill="#f6d9c6"/>
+<circle cx="340" cy="351" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<rect x="375" y="327" width="50" height="48" rx="8" fill="#f6d9c6"/>
+<circle cx="400" cy="351" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<circle cx="460" cy="351" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<line x1="20" y1="380" x2="490" y2="380" stroke="#1f3b5c" stroke-opacity=".15"/>
+<text x="20" y="405" font-size="22" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">松下酒店</text>
+<text x="20" y="430" font-size="21" fill="#6a5f4e">~19:30 · 부정기 휴무</text>
+<path d="M340 396 L354 420 L326 420 Z" fill="none" stroke="#b7791f" stroke-width="4" stroke-linejoin="round"/>
+<rect x="376" y="386" width="48" height="46" rx="8" fill="none" stroke="#cf4a24" stroke-width="2" stroke-dasharray="5 4"/>
+<path d="M400 396 L414 420 L386 420 Z" fill="none" stroke="#b7791f" stroke-width="4" stroke-linejoin="round"/>
+<path d="M460 396 L474 420 L446 420 Z" fill="none" stroke="#b7791f" stroke-width="4" stroke-linejoin="round"/>
+<line x1="20" y1="438" x2="490" y2="438" stroke="#1f3b5c" stroke-opacity=".15"/>
+<text x="20" y="463" font-size="22" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">碧と風</text>
+<text x="20" y="488" font-size="21" fill="#6a5f4e">화~일 17:30~ · 넷 예약만</text>
+<path d="M329 456 L351 478 M351 456 L329 478" stroke="#cf4a24" stroke-width="5" stroke-linecap="round"/>
+<rect x="375" y="443" width="50" height="48" rx="8" fill="#f6d9c6"/>
+<circle cx="400" cy="467" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<circle cx="460" cy="467" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<line x1="20" y1="496" x2="490" y2="496" stroke="#1f3b5c" stroke-opacity=".15"/>
+<text x="20" y="521" font-size="22" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">海鮮ふぐ料理 殿</text>
+<text x="20" y="546" font-size="21" fill="#6a5f4e">평일 16:30~22:00 · 부정기</text>
+<circle cx="340" cy="525" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<rect x="376" y="502" width="48" height="46" rx="8" fill="none" stroke="#cf4a24" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="400" cy="525" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<circle cx="460" cy="525" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<line x1="20" y1="554" x2="490" y2="554" stroke="#1f3b5c" stroke-opacity=".15"/>
+<text x="20" y="579" font-size="22" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">ヒトトセ 境港駅前店</text>
+<text x="20" y="604" font-size="21" fill="#6a5f4e">11:00~21:00 · 부정기</text>
+<circle cx="340" cy="583" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<circle cx="400" cy="583" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<circle cx="460" cy="583" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<line x1="20" y1="612" x2="490" y2="612" stroke="#1f3b5c" stroke-width="1.6"/>
+<text x="830" y="126" font-size="22" fill="#1f3b5c" font-weight="800" text-anchor="middle">10/12</text>
+<text x="830" y="152" font-size="21" fill="#1f3b5c" text-anchor="middle">월</text>
+<text x="890" y="126" font-size="22" fill="#cf4a24" font-weight="800" text-anchor="middle">10/13</text>
+<text x="890" y="152" font-size="21" fill="#cf4a24" text-anchor="middle">화</text>
+<text x="950" y="126" font-size="22" fill="#1f3b5c" font-weight="800" text-anchor="middle">10/14</text>
+<text x="950" y="152" font-size="21" fill="#1f3b5c" text-anchor="middle">수</text>
+<rect x="798" y="74" width="64" height="28" rx="14" fill="#1f3b5c"/>
+<text x="830" y="95" font-size="21" fill="#fff" font-weight="700" text-anchor="middle">공휴일</text>
+<rect x="863" y="166" width="54" height="468" fill="#cf4a24" fill-opacity=".06"/>
+<line x1="510" y1="168" x2="980" y2="168" stroke="#1f3b5c" stroke-width="1.6"/>
+<text x="510" y="196" font-size="21" fill="#1f3b5c" font-weight="800">어항 · Day 3 아침과 점심</text>
+<text x="510" y="231" font-size="22" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">境港水産物直売センター</text>
+<text x="510" y="256" font-size="21" fill="#6a5f4e">8:00~16:00경 · 화 휴무 · 현금</text>
+<circle cx="830" cy="235" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<path d="M879 224 L901 246 M901 224 L879 246" stroke="#cf4a24" stroke-width="5" stroke-linecap="round"/>
+<rect x="925" y="211" width="50" height="48" rx="8" fill="#f6d9c6"/>
+<circle cx="950" cy="235" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<line x1="510" y1="264" x2="980" y2="264" stroke="#1f3b5c" stroke-opacity=".15"/>
+<text x="510" y="289" font-size="22" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">HATONOVA 三光丸</text>
+<text x="510" y="314" font-size="21" fill="#6a5f4e">魚倉·三光水産·鮨かば · 화 휴무</text>
+<circle cx="830" cy="293" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<path d="M879 282 L901 304 M901 282 L879 304" stroke="#cf4a24" stroke-width="5" stroke-linecap="round"/>
+<rect x="925" y="269" width="50" height="48" rx="8" fill="#f6d9c6"/>
+<circle cx="950" cy="293" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<line x1="510" y1="324" x2="980" y2="324" stroke="#1f3b5c" stroke-width="1.6"/>
+<text x="510" y="352" font-size="21" fill="#1f3b5c" font-weight="800">가이케 · 요나고 · Day 2</text>
+<text x="510" y="387" font-size="22" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">エンヤサンゴ</text>
+<text x="510" y="412" font-size="21" fill="#6a5f4e">점심 11:00~15:00 · 일 점심 휴무</text>
+<circle cx="830" cy="391" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<rect x="865" y="367" width="50" height="48" rx="8" fill="#f6d9c6"/>
+<circle cx="890" cy="391" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<circle cx="950" cy="391" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<line x1="510" y1="420" x2="980" y2="420" stroke="#1f3b5c" stroke-opacity=".15"/>
+<text x="510" y="445" font-size="22" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">米子城跡</text>
+<text x="510" y="470" font-size="21" fill="#6a5f4e">국가 사적 · 무료</text>
+<circle cx="830" cy="449" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<rect x="865" y="425" width="50" height="48" rx="8" fill="#f6d9c6"/>
+<circle cx="890" cy="449" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<circle cx="950" cy="449" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<line x1="510" y1="478" x2="980" y2="478" stroke="#1f3b5c" stroke-opacity=".15"/>
+<text x="510" y="503" font-size="22" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">河田酒店</text>
+<text x="510" y="528" font-size="21" fill="#6a5f4e">10:00~19:00 · 수·일 휴무</text>
+<text x="830" y="516" font-size="28" fill="#8a8a8a" font-weight="800" text-anchor="middle">?</text>
+<rect x="866" y="484" width="48" height="46" rx="8" fill="none" stroke="#cf4a24" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="890" cy="507" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<path d="M939 496 L961 518 M961 496 L939 518" stroke="#cf4a24" stroke-width="5" stroke-linecap="round"/>
+<line x1="510" y1="538" x2="980" y2="538" stroke="#1f3b5c" stroke-width="1.6"/>
+<text x="510" y="566" font-size="21" fill="#1f3b5c" font-weight="800">공항</text>
+<text x="510" y="601" font-size="22" font-weight="700" fill="#262626" lang="ja" font-family="'Noto Sans JP','Noto Sans KR',sans-serif">まるはち屋</text>
+<text x="510" y="626" font-size="21" fill="#6a5f4e">공항 2F 게 라멘 · 토 휴무</text>
+<circle cx="830" cy="605" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<circle cx="890" cy="605" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<rect x="926" y="582" width="48" height="46" rx="8" fill="none" stroke="#cf4a24" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="950" cy="605" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<line x1="510" y1="634" x2="980" y2="634" stroke="#1f3b5c" stroke-width="1.6"/>
+<circle cx="34" cy="674" r="13" fill="none" stroke="#2c7590" stroke-width="4.5"/>
+<text x="56" y="681" font-size="21" fill="#262626">영업</text>
+<path d="M135 663 L157 685 M157 663 L135 685" stroke="#cf4a24" stroke-width="5" stroke-linecap="round"/>
+<text x="168" y="681" font-size="21" fill="#262626">휴무</text>
+<path d="M258 661 L272 685 L244 685 Z" fill="none" stroke="#b7791f" stroke-width="4" stroke-linejoin="round"/>
+<text x="280" y="681" font-size="21" fill="#262626">부정기 휴무</text>
+<text x="454" y="683" font-size="28" fill="#8a8a8a" font-weight="800" text-anchor="middle">?</text>
+<text x="476" y="681" font-size="21" fill="#262626">미확인</text>
+<rect x="573" y="654" width="44" height="40" rx="8" fill="#f6d9c6"/>
+<text x="627" y="681" font-size="21" fill="#262626">일정에 넣은 날</text>
+<rect x="804" y="655" width="42" height="38" rx="8" fill="none" stroke="#cf4a24" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="856" y="681" font-size="21" fill="#262626">선택·대안</text>
+<text x="20" y="736" font-size="21" fill="#6a5f4e">2026-10-09 기준 공식 사이트·Tabelog 표기. 공휴일 처리를 적지 않은 곳이 많아 당일 아침 다시 확인.</text>
+</svg>

@@ -1,0 +1,396 @@
+{
+  "builtAt": "2026-10-09T09:26:45.054Z",
+  "partsDir": "src/parts",
+  "parts": {
+    "letter-open": "01-letter-open.html",
+    "overview": "02-overview.html",
+    "day1-diary": "11-day1-diary.html",
+    "day1-plan": "12-day1-plan.html",
+    "day2-diary": "21-day2-diary.html",
+    "day2-plan": "22-day2-plan.html",
+    "day3-diary": "31-day3-diary.html",
+    "day3-plan": "32-day3-plan.html",
+    "feature-kunibiki": "41-feature-kunibiki.html",
+    "feature-yokai": "42-feature-yokai.html",
+    "feature-yonago": "43-feature-yonago.html",
+    "feature-sea-table": "51-feature-sea-table.html",
+    "feature-sake": "52-feature-sake.html",
+    "feature-beer": "53-feature-beer.html",
+    "directory": "54-directory.html",
+    "practical-transport": "61-practical-transport.html",
+    "practical-calendar": "62-practical-calendar.html",
+    "practical-checklist": "63-practical-checklist.html",
+    "practical-phrases": "64-practical-phrases.html",
+    "further": "71-further.html",
+    "letter-close": "81-letter-close.html",
+    "credits": "90-credits.html",
+    "real-diary": "real-diary.html"
+  },
+  "warnings": [
+    "QR 버전 8(L): directory https://maps.google.com/?q=%E7%B4%85%E3%82%BA%E3%83%AF%E3%82… 인쇄에서 타일을 키웠습니다. 검색어나 URL 을 줄이면 작아집니다"
+  ],
+  "qr": [
+    {
+      "part": "day1-plan",
+      "version": 5,
+      "ec": "M",
+      "url": "https://maps.google.com/?q=%E5%BE%A1%E5%AE%BF+%E9%87%8E%E4%B9%83+%E5%A2%83%E6%B8%AF"
+    },
+    {
+      "part": "day1-plan",
+      "version": 4,
+      "ec": "M",
+      "url": "https://dormy-hotels.com/dormyinn/hotels/nono_sakaiminato/"
+    },
+    {
+      "part": "day1-plan",
+      "version": 6,
+      "ec": "M",
+      "url": "https://maps.google.com/?q=%E5%8D%83%E4%BB%A3%E3%82%80%E3%81%99%E3%81%B3+%E5%B2%A1%E7%A9%BA%E6%9C%AC%E5%BA%97+%E5%A2%83%E6%B8%AF"
+    },
+    {
+      "part": "day1-plan",
+      "version": 4,
+      "ec": "M",
+      "url": "https://tabelog.com/tottori/A3103/A310301/31002496/"
+    },
+    {
+      "part": "day1-plan",
+      "version": 6,
+      "ec": "M",
+      "url": "https://maps.google.com/?q=%E6%B0%B4%E6%9C%A8%E3%81%97%E3%81%92%E3%82%8B%E3%83%AD%E3%83%BC%E3%83%89+%E5%A2%83%E6%B8%AF"
+    },
+    {
+      "part": "day1-plan",
+      "version": 3,
+      "ec": "M",
+      "url": "https://mizuki.sakaiminato.net/road/"
+    },
+    {
+      "part": "day2-plan",
+      "version": 5,
+      "ec": "M",
+      "url": "https://maps.google.com/?q=%E3%82%A8%E3%83%B3%E3%83%A4%E3%82%B5%E3%83%B3%E3%82%B4+%E7%9A%86%E7%94%9F"
+    },
+    {
+      "part": "day2-plan",
+      "version": 4,
+      "ec": "M",
+      "url": "https://tabelog.com/tottori/A3103/A310301/31002149/"
+    },
+    {
+      "part": "day2-plan",
+      "version": 5,
+      "ec": "M",
+      "url": "https://maps.google.com/?q=%E7%B1%B3%E5%AD%90%E5%9F%8E%E8%B7%A1+%E7%B1%B3%E5%AD%90"
+    },
+    {
+      "part": "day2-plan",
+      "version": 5,
+      "ec": "M",
+      "url": "https://www.yonago-navi.jp/yonago/shitamachi/sightseeing/yonago-castle-trace/"
+    },
+    {
+      "part": "day2-plan",
+      "version": 5,
+      "ec": "M",
+      "url": "https://maps.google.com/?q=%E6%B2%B3%E7%94%B0%E9%85%92%E5%BA%97+%E7%B1%B3%E5%AD%90"
+    },
+    {
+      "part": "day2-plan",
+      "version": 3,
+      "ec": "M",
+      "url": "https://kawata-saketen.com/about/"
+    },
+    {
+      "part": "day2-plan",
+      "version": 5,
+      "ec": "M",
+      "url": "https://maps.google.com/?q=%E6%9D%BE%E4%B8%8B%E9%85%92%E5%BA%97+%E5%A2%83%E6%B8%AF"
+    },
+    {
+      "part": "day2-plan",
+      "version": 4,
+      "ec": "M",
+      "url": "https://tabelog.com/tottori/A3103/A310301/31003732/"
+    },
+    {
+      "part": "day2-plan",
+      "version": 4,
+      "ec": "M",
+      "url": "https://maps.google.com/?q=%E7%A2%A7%E3%81%A8%E9%A2%A8+%E5%A2%83%E6%B8%AF"
+    },
+    {
+      "part": "day2-plan",
+      "version": 4,
+      "ec": "M",
+      "url": "https://tabelog.com/tottori/A3103/A310301/31004900/"
+    },
+    {
+      "part": "day3-plan",
+      "version": 6,
+      "ec": "L",
+      "url": "https://maps.google.com/?q=%E5%A2%83%E6%B8%AF%E6%B0%B4%E7%94%A3%E7%89%A9%E7%9B%B4%E5%A3%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC+%E5%A2%83%E6%B8%AF"
+    },
+    {
+      "part": "day3-plan",
+      "version": 4,
+      "ec": "M",
+      "url": "https://tabelog.com/tottori/A3103/A310301/31004960/"
+    },
+    {
+      "part": "day3-plan",
+      "version": 6,
+      "ec": "M",
+      "url": "https://maps.google.com/?q=%E6%B0%B4%E6%9C%A8%E3%81%97%E3%81%92%E3%82%8B%E8%A8%98%E5%BF%B5%E9%A4%A8+%E5%A2%83%E6%B8%AF"
+    },
+    {
+      "part": "day3-plan",
+      "version": 3,
+      "ec": "M",
+      "url": "https://mizuki.sakaiminato.net/"
+    },
+    {
+      "part": "day3-plan",
+      "version": 5,
+      "ec": "M",
+      "url": "https://maps.google.com/?q=HATONOVA+%E4%B8%89%E5%85%89%E4%B8%B8+%E5%A2%83%E6%B8%AF"
+    },
+    {
+      "part": "day3-plan",
+      "version": 4,
+      "ec": "M",
+      "url": "https://tabelog.com/tottori/A3103/A310301/31006301/"
+    },
+    {
+      "part": "day3-plan",
+      "version": 6,
+      "ec": "M",
+      "url": "https://maps.google.com/?q=%E7%B1%B3%E5%AD%90%E9%AC%BC%E5%A4%AA%E9%83%8E%E7%A9%BA%E6%B8%AF+%E7%B1%B3%E5%AD%90"
+    },
+    {
+      "part": "day3-plan",
+      "version": 4,
+      "ec": "M",
+      "url": "https://www.yonago-air.com/flow/kokusai_dep"
+    },
+    {
+      "part": "directory",
+      "version": 6,
+      "ec": "M",
+      "url": "https://maps.google.com/?q=%E6%B5%B7%E9%AE%AE%E3%81%B5%E3%81%90%E6%96%99%E7%90%86+%E6%AE%BF+%E5%A2%83%E6%B8%AF"
+    },
+    {
+      "part": "directory",
+      "version": 4,
+      "ec": "M",
+      "url": "https://tabelog.com/tottori/A3103/A310301/31004440/"
+    },
+    {
+      "part": "directory",
+      "version": 6,
+      "ec": "L",
+      "url": "https://maps.google.com/?q=%E5%B1%B1%E9%99%B0%E3%81%AE%E3%81%8A%E5%AF%BF%E5%8F%B8%E3%83%92%E3%83%88%E3%83%88%E3%82%BB+%E5%A2%83%E6%B8%AF%E9%A7%85%E5%89%8D%E5%BA%97"
+    },
+    {
+      "part": "directory",
+      "version": 4,
+      "ec": "M",
+      "url": "https://tabelog.com/tottori/A3103/A310301/31003904/"
+    },
+    {
+      "part": "directory",
+      "version": 6,
+      "ec": "M",
+      "url": "https://maps.google.com/?q=%E3%82%84%E3%81%8D%E3%81%A8%E3%82%8A%E5%A4%A7%E5%90%89+%E5%A2%83%E6%B8%AF%E5%BA%97"
+    },
+    {
+      "part": "directory",
+      "version": 4,
+      "ec": "M",
+      "url": "https://tabelog.com/tottori/A3103/A310301/31000949/"
+    },
+    {
+      "part": "directory",
+      "version": 6,
+      "ec": "M",
+      "url": "https://maps.google.com/?q=Cafe+Dining+Bar+SHIPS+%E7%B1%B3%E5%AD%90+%E6%9D%B1%E5%80%89%E5%90%89%E7%94%BA"
+    },
+    {
+      "part": "directory",
+      "version": 4,
+      "ec": "M",
+      "url": "https://maps.google.com/?q=%E6%A1%9C%E4%B8%B8+%E7%B1%B3%E5%AD%90"
+    },
+    {
+      "part": "directory",
+      "version": 4,
+      "ec": "M",
+      "url": "https://tabelog.com/tottori/A3103/A310301/31003506/"
+    },
+    {
+      "part": "directory",
+      "version": 8,
+      "ec": "L",
+      "url": "https://maps.google.com/?q=%E7%B4%85%E3%82%BA%E3%83%AF%E3%82%A4%E3%82%AC%E3%83%8B%E3%82%89%E3%81%81%E9%BA%BA+%E3%81%BE%E3%82%8B%E3%81%AF%E3%81%A1%E5%B1%8B+%E7%B1%B3%E5%AD%90%E9%AC%BC%E5%A4%AA%E9%83%8E%E7%A9%BA%E6%B8%AF"
+    },
+    {
+      "part": "directory",
+      "version": 4,
+      "ec": "M",
+      "url": "https://tabelog.com/tottori/A3103/A310301/31006489/"
+    },
+    {
+      "part": "overview",
+      "version": 5,
+      "ec": "M",
+      "url": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=310000"
+    },
+    {
+      "part": "further",
+      "version": 5,
+      "ec": "M",
+      "url": "https://www.pref.shimane.lg.jp/life/bunka/bunkazai/izumo_fuudo/kunibiki/"
+    },
+    {
+      "part": "further",
+      "version": 3,
+      "ec": "M",
+      "url": "https://www.gutenberg.org/ebooks/8130"
+    },
+    {
+      "part": "back-cover",
+      "version": 4,
+      "ec": "M",
+      "url": "https://mskim5383.github.io/2026-10-yonago-guide/"
+    }
+  ],
+  "pages": {
+    "total": 64,
+    "target": 64,
+    "max": 72,
+    "start": {
+      "letter-open": 4,
+      "overview": 6,
+      "day1-diary": 9,
+      "day1-plan": 11,
+      "day2-diary": 15,
+      "day2-plan": 17,
+      "day3-diary": 21,
+      "day3-plan": 23,
+      "feature-kunibiki": 27,
+      "feature-yokai": 30,
+      "feature-yonago": 33,
+      "feature-sea-table": 36,
+      "feature-sake": 39,
+      "feature-beer": 43,
+      "directory": 45,
+      "practical-transport": 49,
+      "practical-calendar": 51,
+      "practical-checklist": 53,
+      "practical-phrases": 55,
+      "further": 56,
+      "letter-close": 59,
+      "credits": 60,
+      "real-diary": 61
+    },
+    "refs": {
+      "overview-rule": 7,
+      "overview-booking": 8,
+      "yokai-line": 31,
+      "yokai-museum": 32,
+      "sake-goriki": 41,
+      "sake-hiyaoroshi": 41,
+      "beer-order": 44,
+      "beer-daisen": 44,
+      "dir-sakaiminato": 46,
+      "dir-airport": 47,
+      "transport-taxi": 50,
+      "checklist-customs": 54,
+      "further-mihonoseki": 56,
+      "further-izumo": 57,
+      "further-check": 58
+    },
+    "fillersBeforeRecto": {
+      "practical-transport": 1
+    },
+    "endFillers": 0
+  },
+  "memoLines": [
+    {
+      "file": "11-day1-diary.html",
+      "asked": 3,
+      "printed": 3
+    },
+    {
+      "file": "12-day1-plan.html",
+      "asked": 24,
+      "printed": 8,
+      "tailMemo": true
+    },
+    {
+      "file": "21-day2-diary.html",
+      "asked": 3,
+      "printed": 2
+    },
+    {
+      "file": "22-day2-plan.html",
+      "asked": 24,
+      "printed": 0,
+      "tailMemo": true,
+      "dropped": true
+    },
+    {
+      "file": "31-day3-diary.html",
+      "asked": 3,
+      "printed": 3
+    },
+    {
+      "file": "32-day3-plan.html",
+      "asked": 24,
+      "printed": 13,
+      "tailMemo": true
+    },
+    {
+      "file": "52-feature-sake.html",
+      "asked": 9,
+      "printed": 9
+    },
+    {
+      "file": "53-feature-beer.html",
+      "asked": 24,
+      "printed": 4,
+      "tailMemo": true
+    },
+    {
+      "file": "81-letter-close.html",
+      "asked": 2,
+      "printed": 2
+    },
+    {
+      "file": "81-letter-close.html",
+      "asked": 1,
+      "printed": 1
+    },
+    {
+      "file": "81-letter-close.html",
+      "asked": 1,
+      "printed": 1
+    },
+    {
+      "file": "81-letter-close.html",
+      "asked": 1,
+      "printed": 1
+    },
+    {
+      "file": "81-letter-close.html",
+      "asked": 1,
+      "printed": 1
+    }
+  ],
+  "imposition": {
+    "ok": true,
+    "sheets": 16,
+    "errors": []
+  }
+}

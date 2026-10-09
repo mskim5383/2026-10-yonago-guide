@@ -1,0 +1,51 @@
+{
+  "title": "바다 쪽으로 사흘",
+  "subtitle": "요나고·사카이미나토 여행 가이드북 · 2026.10.12–14",
+  "series": "여행 가이드북 02",
+  "kicker": "山陰 · 弓ヶ浜",
+  "published": "2026-10-11",
+  "webUrl": "https://mskim5383.github.io/2026-10-yonago-guide/",
+  "output": {
+    "html": "index.html",
+    "pdf": "yonago-guide-a5.pdf",
+    "booklet": "yonago-guide-booklet-a4.pdf"
+  },
+  "pages": { "target": 64, "max": 72, "multiple": 4 },
+  "tailMemo": { "parts": ["12-day1-plan.html", "22-day2-plan.html", "32-day3-plan.html", "53-feature-beer.html"], "lines": 24, "min": 4 },
+  "serifKinds": ["letter", "diary", "feature", "further", "essay", "closing", "close"],
+  "sequence": [
+    { "front": "cover.html" },
+    { "front": "colophon.html" },
+    { "front": "toc.html" },
+
+    { "group": "open", "run": "여는 글", "parts": ["01-letter-open.html"] },
+    { "group": "overview", "run": "사흘 한눈에", "parts": ["02-overview.html"] },
+
+    { "group": "day1", "label": "DAY 1", "title": "10/12(월) 도착, 요괴의 항구", "nav": "D1", "navTo": "12-day1-plan.html",
+      "run": "Day 1 · 10.12 월", "start": "recto",
+      "parts": ["11-day1-diary.html", "12-day1-plan.html"] },
+    { "group": "day2", "label": "DAY 2", "title": "10/13(화) 유미가하마의 해변, 요나고, 생맥주", "nav": "D2", "navTo": "22-day2-plan.html",
+      "run": "Day 2 · 10.13 화", "start": "recto",
+      "parts": ["21-day2-diary.html", "22-day2-plan.html"] },
+    { "group": "day3", "label": "DAY 3", "title": "10/14(수) 항구의 아침, 기념관, 기타로 열차", "nav": "D3", "navTo": "32-day3-plan.html",
+      "run": "Day 3 · 10.14 수", "start": "recto",
+      "parts": ["31-day3-diary.html", "32-day3-plan.html"] },
+
+    { "group": "read", "label": "읽을거리", "run": "읽을거리", "start": "recto",
+      "parts": ["41-feature-kunibiki.html", "42-feature-yokai.html", "43-feature-yonago.html",
+                "51-feature-sea-table.html", "52-feature-sake.html", "53-feature-beer.html"] },
+    { "group": "directory", "run": "먹고 마실 곳", "parts": ["54-directory.html"] },
+
+    { "group": "practical", "label": "실용", "run": "실용 정보", "start": "recto",
+      "parts": ["61-practical-transport.html", "62-practical-calendar.html",
+                "63-practical-checklist.html", "64-practical-phrases.html"] },
+
+    { "group": "further", "run": "더 알아볼 것", "parts": ["71-further.html"] },
+    { "group": "close", "run": "닫는 글", "parts": ["81-letter-close.html"] },
+    { "group": "credits", "run": "사진과 참고 자료", "parts": ["90-credits.html"] },
+
+    { "group": "notes", "run": "진짜 일기", "front": ["real-diary.html"] },
+    { "filler": "end" },
+    { "front": "back-cover.html" }
+  ]
+}
